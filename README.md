@@ -1,6 +1,6 @@
 # chatter_io
 
-A new Flutter project.
+A chatting Application based on Flutter and Firebase.
 
 ## Getting Started
 
